@@ -6,7 +6,7 @@ This guide explains how to connect to the Minecraft server using **Minecraft Jav
 
 Minecraft comes in two main editions: **Java Edition** and **Bedrock Edition**. The version you need depends mostly on the device you're using.
 
-This server is compatible with both versions, but **Java and Bedrock connect through different addresses and ports**, so it is important to use the correct edition.
+This server is compatible with both versions, but **Java and Bedrock connect through different addresses and ports**, so it is important to know which edition you're using so you can follow the correct documentation.
 
 ## 🎮 Easy Version Guide
 
