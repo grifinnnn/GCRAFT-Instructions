@@ -2,6 +2,27 @@
 
 This guide explains how to connect to the Minecraft server using **Minecraft Java Edition** or **Minecraft Bedrock Edition**.
 
+# 🧭 Java vs. Bedrock — Which Version Do You Need?
+
+Minecraft comes in two main editions: **Java Edition** and **Bedrock Edition**. The version you need depends mostly on the device you're using.
+
+This server is compatible with both versions, but **Java and Bedrock connect through different addresses and ports**, so it is important to use the correct edition.
+
+## 🎮 Easy Version Guide
+
+| Device | Minecraft Edition | Use This Guide |
+|---|---|---|
+| 🖥️ **Windows PC** | Java **or** Bedrock | Your preference |
+| 🍎 **Mac** | **Java** | ☕ Java Edition |
+| 🐧 **Linux PC** | **Java** | ☕ Java Edition |
+| 🎮 **Xbox One / Xbox Series X\|S** | **Bedrock** | 🪨 Bedrock Edition |
+| 🎮 **PlayStation 4 / PlayStation 5** | **Bedrock** | 🪨 Bedrock Edition |
+| 🎮 **Nintendo Switch** | **Bedrock** | 🪨 Bedrock Edition |
+| 📱 **iPhone / iPad** | **Bedrock** | 🪨 Bedrock Edition |
+| 📱 **Android** | **Bedrock** | 🪨 Bedrock Edition |
+
+> **The simple rule:** If you're playing on an **Xbox, PlayStation, or Nintendo Switch, you are playing Bedrock Edition.**
+
 ## 🌐 Server Information
 
 | Edition                | Server Address  |    Port | Required Version           |
