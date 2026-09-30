@@ -2,6 +2,64 @@
 
 This guide explains how to connect to the Minecraft server using **Minecraft Java Edition** or **Minecraft Bedrock Edition**.
 
+# ⚡ Quick Connect
+
+If you already know how to add a Minecraft server, use the information below to connect quickly.
+
+## ☕ Java Edition
+
+| Setting               | Value                 |
+| --------------------- | --------------------- |
+| **Server Address**    | `74.208.110.10:25565` |
+| **Minecraft Version** | **Java 26.2**         |
+
+**Password:**
+When prompted to log in, open Minecraft chat and enter:
+
+```text
+/login <password>
+```
+
+Replace `<password>` with the server password you were given.
+
+Once you successfully authenticate, you generally **will not need to enter the password again** unless your connection information changes, such as when connecting from a different network or IP address.
+
+---
+
+## 🪨 Bedrock Edition
+
+| Setting               | Value                                  |
+| --------------------- | -------------------------------------- |
+| **Server Address**    | `74.208.110.10`                        |
+| **Port**              | `19132`                                |
+| **Minecraft Version** | **Current compatible Bedrock version** |
+
+**Password:**
+When prompted to log in, open Minecraft chat and enter:
+
+```text
+/login <password>
+```
+
+Replace `<password>` with the server password you were given.
+
+Once you successfully authenticate, you generally **will not need to enter the password again** unless your connection information changes, such as when connecting from a different network or IP address.
+
+> 🔒 **Keep the server password private.** Do not share it publicly or post it in Minecraft chat.
+
+---
+
+## 📝 Need Detailed Instructions?
+
+If you need help connecting, continue below for step-by-step instructions for:
+
+* ☕ **Java Edition**
+* 🪨 **Bedrock Edition**
+* 🔐 **Server password authentication**
+* 👤 **Bedrock skin troubleshooting**
+
+---
+
 ## 📑 Table of Contents
 
 1. [Java vs. Bedrock — Which Version Do You Need?](#-java-vs-bedrock--which-version-do-you-need)
@@ -48,6 +106,7 @@ This guide explains how to connect to the Minecraft server using **Minecraft Jav
      * [4. Re-import the skin](#4-re-import-the-skin)
      * [5. Ask another player to check your skin](#5-ask-another-player-to-check-your-skin)
 
+---
 
 # 🧭 Java vs. Bedrock — Which Version Do You Need?
 
@@ -57,16 +116,16 @@ This server is compatible with both versions, but **Java and Bedrock connect thr
 
 ## 🎮 Easy Version Guide
 
-| Device | Minecraft Edition | Use This Guide |
-|---|---|---|
-| 🖥️ **Windows PC** | Java **or** Bedrock | Your preference |
-| 🍎 **Mac** | **Java** | ☕ Java Edition |
-| 🐧 **Linux PC** | **Java** | ☕ Java Edition |
-| 🎮 **Xbox One / Xbox Series X\|S** | **Bedrock** | 🪨 Bedrock Edition |
-| 🎮 **PlayStation 4 / PlayStation 5** | **Bedrock** | 🪨 Bedrock Edition |
-| 🎮 **Nintendo Switch** | **Bedrock** | 🪨 Bedrock Edition |
-| 📱 **iPhone / iPad** | **Bedrock** | 🪨 Bedrock Edition |
-| 📱 **Android** | **Bedrock** | 🪨 Bedrock Edition |
+| Device                               | Minecraft Edition   | Use This Guide     |
+| ------------------------------------ | ------------------- | ------------------ |
+| 🖥️ **Windows PC**                   | Java **or** Bedrock | Your preference    |
+| 🍎 **Mac**                           | **Java**            | ☕ Java Edition     |
+| 🐧 **Linux PC**                      | **Java**            | ☕ Java Edition     |
+| 🎮 **Xbox One / Xbox Series X|S**    | **Bedrock**         | 🪨 Bedrock Edition |
+| 🎮 **PlayStation 4 / PlayStation 5** | **Bedrock**         | 🪨 Bedrock Edition |
+| 🎮 **Nintendo Switch**               | **Bedrock**         | 🪨 Bedrock Edition |
+| 📱 **iPhone / iPad**                 | **Bedrock**         | 🪨 Bedrock Edition |
+| 📱 **Android**                       | **Bedrock**         | 🪨 Bedrock Edition |
 
 > **The simple rule:** If you're playing on an **Xbox, PlayStation, or Nintendo Switch, you are playing Bedrock Edition.**
 
@@ -138,6 +197,7 @@ Then open the **Version** dropdown and select:
 ```text
 26.2
 ```
+
 ![Image](https://images.openai.com/static-rsc-4/v84NMsIrSkkBfDa9uBwag54akMdlQ_JlvqgBazr5kPIkBmUq6gCrRKw3XOBRDVvd2ZagDjSN-wvkrr9rhb0-Tr1-p6q7y6R7SpuaeSOkBY4bQtZSaoU8KJ2vbfyUJd3Yrv-Es5BG0A7faKrDaIKXBrd7UVQ_cOeGC4FDZX2fHPQFppYzdKa7WL2jCEmaU19C?purpose=fullsize)
 
 ### 4. Save the Installation
@@ -166,9 +226,7 @@ Once Minecraft **26.2** has launched, select:
 
 **Multiplayer**
 
-
-![Image](https://images.openai.com/static-rsc-4/4pwThkpgFXS_KPLRhLdoHLggtvQ-ewIpEZgyhJIvBtjcmVYqX3j28zRxxCmPQn1Tvy8ZUgaM7BvAedFxOop07QkpXYIRkfys_dKcDeouvgYIwSUPjxYgkLeFn_vg0B6E6RHu5pnZ2Sw8c0UXvox1p7LmMZjfjxkc_Ch_OkWkgjhNPaD1QbrBby4GUR2VSTaI?purpose=fullsize)
-
+![Image](https://images.openai.com/static-rsc-4/4pwThkpgFX_S_KPLRhLdoHLggtvQ-ewIpEZgyhJIvBtjcmVYqX3j28zRxxCmPQn1Tvy8ZUgaM7BvAedFxOop07QkpXYIRkfys_dKcDeouvgYIwSUPjxYgkLeFn_vg0B6E6RHu5pnZ2Sw8c0UXvox1p7LmMZjfjxkc_Ch_OkWkgjhNPaD1QbrBby4GUR2VSTaI?purpose=fullsize)
 
 ---
 
@@ -215,15 +273,13 @@ You should now be connected.
 
 ---
 
----
-
 # 🪨 Minecraft Bedrock Edition
 
 ## Step 1 — Open Minecraft
 
 Launch **Minecraft Bedrock Edition**.
 
-![Image](https://images.openai.com/static-rsc-4/E4-hgxF8yJiW8UN4L5nMwgfmXOYTEniiID7-61f5OY6qZq9MIMfdo40CqHXQleC6TH8j5kUvxSxIVLbp5BAHyh9efdRzzZBeXHbnxBHy9hpZIPZJ01qbC84TYUfgGvkwlo7Lmp-90sr3-7pvKfjIK5dJL6ewDrwJUiWQlAWgYQZ6uB2l7WSPkYrlPrs8JIkM?purpose=fullsize)
+![Image](https://images.openai.com/static-rsc-4/E4-hgxF8yJiW8UN4L5nMwgfmXOYTEniiID7-61f5OY0q6Zq9MIMfdo40CqHXQleC6TH8j5kUvxSxIVLbp5BAHyh9efdRzzZBeXHbnxBHy9hpZIPZJ01qbC84TYUfgGvkwlo7Lmp-90sr3-7pvKfjIK5dJL6ewDrwJUiWQlAWgYQZ6uB2l7WSPkYrlPrs8JIkM?purpose=fullsize)
 
 ---
 
@@ -237,175 +293,4 @@ Then select the:
 
 **Servers** tab.
 
-![Image](https://images.openai.com/static-rsc-4/dbddn5zF0pm2ySM634nPYakJAJGCS7CNiLgs1TKrpp_1aMLm0qiI2Ga2_vOTJiFVHSPYPgFOv3W9cCoMH6u5AMw0XU45RXGTsNNbJw_SxoSBwsuxMOrTtF-y5FcOQQgbwnhPAi4CItsQ-KGdO1BXmaS5TKcz-3uGG_8fFyLpGXuHNqBX_QPWCnNHROJrAkjl?purpose=fullsize)
-
----
-
-## Step 3 — Add the Server
-
-Scroll down and select:
-
-**Add Server**
-
-Enter:
-
-| Field              | Value             |
-| ------------------ | ----------------- |
-| **Server Name**    | Anything you want |
-| **Server Address** | `74.208.110.10`   |
-| **Port**           | `19132`           |
-
-![Image](https://images.openai.com/static-rsc-4/Kn4GRjmVe3wwyefdzABVAnzDx4_DXe2zgzV8EJqKq1yE9n_RmuzYVwuqR6LeZRFGzGuPSZU96eP_5eN8ueaFbLLAqaofl_Emb3QqOBVnUqeqUJ57m184wTcKMah4pr7Lt071T18ezEe3Kkq0MM9fvAMJHBY2yMdnEVCKqp_j2XeSN9Y5kjtOTtePssrNrzfB?purpose=fullsize)
-
-
-Your settings should look like:
-
-```text
-Server Name:
-My Minecraft Server
-
-Server Address:
-74.208.110.10
-
-Port:
-19132
-```
-
----
-
-## Step 4 — Connect
-
-Click:
-
-**Save** or **Play**
-
-depending on your device and Minecraft version.
-
-The server should now appear in your server list.
-
-Select it and click **Play**.
-
----
-
-# 🔐 Server Password — First Time You Connect
-
-To enter the server for the first time you must enter a one-time password. 
-
-You do **not** create your own individual Minecraft server password.
-
-## 🆕 Your First Login
-
-After you connect to the server, you will initially be placed into a locked-down login state.
-
-You will see a message asking you to enter the server password.
-
-Open the Minecraft chat and type:
-
-```text
-/login <password>
-```
-
-Replace `<password>` with the server password you were given.
-
-For example:
-
-```text
-/login MyServerPassword
-```
-
-Press **Enter** to submit the command.
-
-If the password is correct, you will be logged into the server and can begin playing.
-
-> 🔒 **Keep the server password private.** Do not share it publicly or post it in Minecraft chat where other people can see it.
-
-## 🔑 What Happens After You Successfully Log In?
-
-You generally only need to authenticate your connection once.
-
-The server remembers successfully authenticated players using their **Minecraft UUID and IP address**. Once authenticated, your connection is saved so you can reconnect without having to enter the password every time.
-
-## ❗ If You Are Asked for the Password Again
-
-If the server asks you to enter the password again after you have previously authenticated, simply enter:
-
-```text
-/login <password>
-```
-
-This can happen if your connection information changes, such as when connecting from a different network or IP address.
-
----
-
-# 👤 Bedrock Skin Troubleshooting
-
-## Why Can't Other Players See My Bedrock Skin?
-
-If you are playing on **Bedrock Edition** and other players see you as **Steve, Alex, or another default character** instead of your selected skin, your Bedrock character may be using a **Character Creator / Persona-style skin**.
-
-For this server, Bedrock players should use a **Classic Skin**.
-
-Minecraft Bedrock has separate **Character** and **Classic Skin** options. Classic Skins use the traditional full-body Minecraft skin model, while Character Creator skins are assembled from individual character items. Using a Classic Skin is the recommended setup for this server so your skin can be displayed correctly when playing with other players. ([Minecraft.net](https://www.minecraft.net/en-us/article/what-is-minecraft-skin))
-
-> ⚠️ **Important:** Your skin can look correct in the Bedrock Dressing Room but still appear as Steve or Alex to other players after joining the server. If this happens, switch your active skin to a **Classic Skin**.
-
-## Step 1 — Open the Dressing Room
-
-From the Minecraft Bedrock main menu, select:
-
-**Dressing Room**
-
-![Minecraft Bedrock Dressing Room](https://cms-a.nodecraft.com/f/133932/1918x1004/b5761c9b3e/mc_be_dressingroombutton.png/m/1000x0/smart)
-
-The Dressing Room is where you manage your active Bedrock character and skins.
-
-## Step 2 — Create or Edit a Character Slot
-
-In the Dressing Room:
-
-1. Select an existing character slot you want to change, **or**
-2. Select an empty slot and choose **Create Character**.
-
-![Minecraft Bedrock Create Character](https://cms-a.nodecraft.com/f/133932/1915x916/93caa80158/mc_be_newcharacterbutton.png/m/1000x0/smart)
-
-## Step 3 — Select **Classic Skin**
-
-When Minecraft asks what type of character you want to use, select:
-
-**Classic Skin**
-
-Do **not** select **Character** if you are trying to use a traditional Minecraft skin for this server.
-
-![Minecraft Bedrock Classic Skin](https://cms-a.nodecraft.com/f/133932/1916x899/2d54ce3ea4/mc_be_createclassicskinbutton.png/m/1000x0/smart)
-
-## Step 4 — Select or Import Your Classic Skin
-
-If you already have a Classic Skin:
-
-1. Open **Classic Skins**.
-2. Find your skin under **Owned Skins**.
-3. Select the skin.
-4. Equip it.
-
-If you need to import a custom `.png` skin, select the blank/empty skin slot and choose:
-
-**Choose New Skin**
-
-![Minecraft Bedrock Choose New Skin](https://cms-a.nodecraft.com/f/133932/1919x1005/2a811c1ff7/mc_be_uploadskin.png/m/1000x0/smart)
-
-Then select your skin file.
-
-## Step 5 — Choose the Correct Skin Model
-
-When importing a Classic Skin, Minecraft may ask you to choose the model, make sure you choose the Classic model.
-
-- **Steve / Classic** — wider arms
-
-## Step 6 — Equip the Classic Skin
-
-After selecting the skin and model, make sure the **Classic Skin is actually equipped**.
-
-Return to the main menu and confirm that your character is using the Classic Skin.
-
-Then reconnect to the server.
-
+![Image](https://images.openai.com/static-rsc-4/dbddn5zF0pm2ySM634nPYakJAJGCS7CNiLgs1TKrpp_1aMLm0qiI2Ga2_vO)
