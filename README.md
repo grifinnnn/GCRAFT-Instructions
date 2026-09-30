@@ -2,6 +2,53 @@
 
 This guide explains how to connect to the Minecraft server using **Minecraft Java Edition** or **Minecraft Bedrock Edition**.
 
+## 📑 Table of Contents
+
+1. [Java vs. Bedrock — Which Version Do You Need?](#-java-vs-bedrock--which-version-do-you-need)
+
+   * [🎮 Easy Version Guide](#-easy-version-guide)
+   * [🌐 Server Information](#-server-information)
+
+2. [☕ Minecraft Java Edition](#-minecraft-java-edition)
+
+   * [⚠️ Java Version Requirement](#️-java-version-requirement)
+   * [Step 1 — Open the Minecraft Launcher](#step-1--open-the-minecraft-launcher)
+   * [🔧 Step 2 — Change Minecraft to Version 26.2](#-step-2--change-minecraft-to-version-262)
+   * [Step 3 — Open Multiplayer](#step-3--open-multiplayer)
+   * [➕ Step 4 — Add the Server](#-step-4--add-the-server)
+   * [▶️ Step 5 — Join the Server](#️-step-5--join-the-server)
+
+3. [🪨 Minecraft Bedrock Edition](#-minecraft-bedrock-edition)
+
+   * [Step 1 — Open Minecraft](#step-1--open-minecraft-1)
+   * [Step 2 — Select Play](#step-2--select-play)
+   * [Step 3 — Add the Server](#step-3--add-the-server-1)
+   * [Step 4 — Connect](#step-4--connect)
+
+4. [🔐 Server Password — First Time You Connect](#-server-password--first-time-you-connect)
+
+   * [🆕 Your First Login](#-your-first-login)
+   * [🔑 What Happens After You Successfully Log In?](#-what-happens-after-you-successfully-log-in)
+   * [❗ If You Are Asked for the Password Again](#-if-you-are-asked-for-the-password-again)
+
+5. [👤 Bedrock Skin Troubleshooting](#-bedrock-skin-troubleshooting)
+
+   * [Why Can't Other Players See My Bedrock Skin?](#why-cant-other-players-see-my-bedrock-skin)
+   * [Step 1 — Open the Dressing Room](#step-1--open-the-dressing-room-1)
+   * [Step 2 — Create or Edit a Character Slot](#step-2--create-or-edit-a-character-slot)
+   * [Step 3 — Select Classic Skin](#step-3--select-classic-skin)
+   * [Step 4 — Select or Import Your Classic Skin](#step-4--select-or-import-your-classic-skin)
+   * [Step 5 — Choose the Correct Skin Model](#step-5--choose-the-correct-skin-model)
+   * [Step 6 — Equip the Classic Skin](#step-6--equip-the-classic-skin)
+   * [🔧 If Your Skin Still Does Not Appear](#-if-your-skin-still-does-not-appear)
+
+     * [1. Confirm that you are using Classic Skin](#1-confirm-that-you-are-using-classic-skin)
+     * [2. Leave and rejoin the server](#2-leave-and-rejoin-the-server)
+     * [3. Try a default Classic Skin](#3-try-a-default-classic-skin)
+     * [4. Re-import the skin](#4-re-import-the-skin)
+     * [5. Ask another player to check your skin](#5-ask-another-player-to-check-your-skin)
+
+
 # 🧭 Java vs. Bedrock — Which Version Do You Need?
 
 Minecraft comes in two main editions: **Java Edition** and **Bedrock Edition**. The version you need depends mostly on the device you're using.
@@ -253,6 +300,57 @@ The server should now appear in your server list.
 Select it and click **Play**.
 
 ---
+
+# 🔐 Server Password — First Time You Connect
+
+To enter the server for the first time you must enter a one-time password. 
+
+You do **not** create your own individual Minecraft server password.
+
+## 🆕 Your First Login
+
+After you connect to the server, you will initially be placed into a locked-down login state.
+
+You will see a message asking you to enter the server password.
+
+Open the Minecraft chat and type:
+
+```text
+/login <password>
+```
+
+Replace `<password>` with the server password you were given.
+
+For example:
+
+```text
+/login MyServerPassword
+```
+
+Press **Enter** to submit the command.
+
+If the password is correct, you will be logged into the server and can begin playing.
+
+> 🔒 **Keep the server password private.** Do not share it publicly or post it in Minecraft chat where other people can see it.
+
+## 🔑 What Happens After You Successfully Log In?
+
+You generally only need to authenticate your connection once.
+
+The server remembers successfully authenticated players using their **Minecraft UUID and IP address**. Once authenticated, your connection is saved so you can reconnect without having to enter the password every time.
+
+## ❗ If You Are Asked for the Password Again
+
+If the server asks you to enter the password again after you have previously authenticated, simply enter:
+
+```text
+/login <password>
+```
+
+This can happen if your connection information changes, such as when connecting from a different network or IP address.
+
+---
+
 # 👤 Bedrock Skin Troubleshooting
 
 ## Why Can't Other Players See My Bedrock Skin?
