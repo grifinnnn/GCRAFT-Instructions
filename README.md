@@ -142,12 +142,6 @@ Then open the **Version** dropdown and select:
 
 ### 4. Save the Installation
 
-Click:
-
-**Create**
-
-Mojang's official instructions follow the same process: select **Installations**, choose **New**, select the desired game version, and create the installation. ([Minecraft.net][2])
-
 ### 5. Launch Version 26.2
 
 Return to the **Play** tab.
@@ -163,12 +157,6 @@ Select it and click:
 **Play**
 
 ![Image](https://images.openai.com/static-rsc-4/KoO2Ot4aH7dpuNqD5dZ18-38YOs5y8T9Wy4jdFcZHYIR23MiRgypNIJQx1oM1rXIiXodaCJA3tzXX115Bk4bb9Wo-9dWmekFWSgxoS9sk-X5X6gU0QMh2niua9PLCwAEkSIjovZp987_wEMZTY-U-Zdl2bkO3AyFXxFndkbIXh6Gpy3wtIQIKlacwYPXHy54?purpose=fullsize)
-
-> 💡 **Tip:** You can keep this installation specifically for this server. That way, you don't have to change your Minecraft version every time you want to play.
-
-### ⚠️ World Backup Warning
-
-Mojang recommends backing up your worlds before changing Minecraft versions because opening a world with a different/older version can potentially damage it. ([Minecraft.net][2])
 
 ---
 
@@ -247,9 +235,7 @@ From the main menu, click:
 
 Then select the:
 
-**Servers**
-
-tab.
+**Servers** tab.
 
 ![Image](https://images.openai.com/static-rsc-4/dbddn5zF0pm2ySM634nPYakJAJGCS7CNiLgs1TKrpp_1aMLm0qiI2Ga2_vOTJiFVHSPYPgFOv3W9cCoMH6u5AMw0XU45RXGTsNNbJw_SxoSBwsuxMOrTtF-y5FcOQQgbwnhPAi4CItsQ-KGdO1BXmaS5TKcz-3uGG_8fFyLpGXuHNqBX_QPWCnNHROJrAkjl?purpose=fullsize)
 
@@ -411,18 +397,9 @@ Then select your skin file.
 
 ## Step 5 — Choose the Correct Skin Model
 
-When importing a Classic Skin, Minecraft may ask you to choose the model.
-
-Select the model that matches your skin:
+When importing a Classic Skin, Minecraft may ask you to choose the model, make sure you choose the Classic model.
 
 - **Steve / Classic** — wider arms
-- **Alex / Slim** — thinner arms
-
-If your skin was created for the Classic model, select **Steve / Classic**.
-
-If your skin was created for the Slim model, select **Alex / Slim**.
-
-Using the wrong model can make the skin look incorrect even though it has been imported successfully.
 
 ## Step 6 — Equip the Classic Skin
 
@@ -432,46 +409,3 @@ Return to the main menu and confirm that your character is using the Classic Ski
 
 Then reconnect to the server.
 
-## 🔧 If Your Skin Still Does Not Appear
-
-Try these steps in order:
-
-### 1. Confirm that you are using Classic Skin
-
-Go back to:
-
-**Dressing Room → Classic Skins**
-
-Make sure the skin you want to use is selected and equipped.
-
-### 2. Leave and rejoin the server
-
-After changing your skin:
-
-1. Leave the Minecraft server.
-2. Return to the main menu.
-3. Confirm your Classic Skin is equipped.
-4. Rejoin the server.
-
-### 3. Try a default Classic Skin
-
-If your custom skin still does not appear, temporarily equip a standard Classic Skin such as **Steve**.
-
-Then join the server again.
-
-If the Classic Skin appears correctly, the problem is likely related to the custom skin or its model rather than the server connection.
-
-### 4. Re-import the skin
-
-If necessary, remove/recreate the Classic Skin and import the `.png` again.
-
-Make sure you select the correct **Steve/Classic** or **Alex/Slim** model when importing it.
-
-### 5. Ask another player to check your skin
-
-Have another player on the server look at your character.
-
-If they see **Steve or Alex** while you see your custom skin, verify that you are using a **Classic Skin** rather than a Character Creator skin.
-
-> 💡 **Quick Fix:**  
-> **Dressing Room → Classic Skins → Select/Import Skin → Choose Correct Model → Equip → Rejoin Server**
